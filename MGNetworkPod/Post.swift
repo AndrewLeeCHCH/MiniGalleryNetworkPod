@@ -9,7 +9,7 @@
 import Foundation
 
 public struct Post: Decodable {
-  let id: Int
-  let imageUrl: String
-  let videoUrl: String
+  public let id: Int
+  public let imageUrl: String
+  public let videoUrl: String
 }
