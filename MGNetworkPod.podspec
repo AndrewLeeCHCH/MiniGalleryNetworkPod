@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.source_files  = "MGNetworkPod/**/*.{h,m,swift}"
   s.resources = "MGNetworkPod/**/*.{png,jpeg,jpg}"
   s.dependency 'Disk'
+  s.swift_version = "4.2"
 end
