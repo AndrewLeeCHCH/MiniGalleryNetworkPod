@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MGNetworkPod"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "This is NetworkPod for Project MiniGallery"
   s.description  = "Create data-synchronization-related things for project MiniGallery."
   s.homepage     = "https://github.com/AndrewLeeCHCH/MiniGalleryNetworkPod"
